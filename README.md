@@ -8,11 +8,11 @@ It has a button, which activates 2 led lights and a small vibrating motor.
 
 Silk screened is my website and the qr form of my website link.
 
-BOM:
+# BOM:
 
-3 resistors
-2 LED lights
-1 transistor
-1 button
-1 battery cell
-1 mini motor disc
+- 3 resistors
+- 2 LED lights
+- 1 transistor
+- 1 button
+- 1 battery cell
+- 1 mini motor disc
