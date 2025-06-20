@@ -16,3 +16,4 @@ Silk screened is my website and the qr form of my website link.
 - 1 button
 - 1 battery cell
 - 1 mini motor disc
+- 1 capacitor
