@@ -1,9 +1,10 @@
 # business-card-pcb
 My first ever time designing a PCB, based on parts from https://solder.hackclub.com
 ![image](https://github.com/user-attachments/assets/1ac4922d-8446-4a71-b980-149b1d27dd49)
-![image](https://github.com/user-attachments/assets/22e30ad4-3866-4e2c-a4f3-e173f42ad8eb)
-![image](https://github.com/user-attachments/assets/40cc27fd-d335-4c17-8e69-151e196ab44a)
-![image](https://github.com/user-attachments/assets/84fa3342-c70f-4c44-bbb4-5cd9764fc52b)
+![image](https://github.com/user-attachments/assets/84266152-177c-4611-a014-9d60b29b19be)
+![image](https://github.com/user-attachments/assets/266cbc78-245b-4c88-8f7c-4b7a2a181695)
+![image](https://github.com/user-attachments/assets/666e18c0-c30a-4d7d-af97-e6289fcecf55)
+
 
 
 It has a button, which activates 2 led lights and a small vibrating motor.
