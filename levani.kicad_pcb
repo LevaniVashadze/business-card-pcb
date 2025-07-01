@@ -816,7 +816,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "5e1d9865-a3d5-4523-a48c-655ef9a947aa")
-		(at 91 90.5)
+		(at 89.5 92)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -4971,6 +4971,7 @@
 		(property "Reference" "BT1"
 			(at 8.485 9 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "dd7d0bc1-c7f5-4b51-a002-ceb9a3ecb477")
 			(effects
 				(font
@@ -6546,6 +6547,14 @@
 			)
 			(justify left bottom mirror)
 		)
+	)
+	(via
+		(at 75.5 55.5)
+		(size 5.5)
+		(drill 5)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "7d0c6d3d-73f6-4447-86db-52f156775acd")
 	)
 	(segment
 		(start 121 102.5)
